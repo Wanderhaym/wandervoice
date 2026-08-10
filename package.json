@@ -1,0 +1,23 @@
+{
+  "name": "wandervoice",
+  "version": "1.0.1",
+  "description": "Клиентская библиотека для воспроизведения голосовых сообщений из ссылок WanderVoice",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["voice", "speech", "tts", "wandervoice", "vk", "speech-synthesis"],
+  "author": "Wanderhaym",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanderhaym/wandervoice.git"
+  },
+  "dependencies": {
+    "lz-string": "^1.5.0"
+  }
+}

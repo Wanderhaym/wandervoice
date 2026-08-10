@@ -1,0 +1,11 @@
+node_modules/
+.git/
+.env
+*.log
+tests/
+.idea/
+.vscode/
+*.docx
+план.docx
+план 2.docx
+package-lock.json
